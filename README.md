@@ -1,4 +1,4 @@
-# Java & DSA Practice
+# Java Programming Practice
 
 This repository contains my Java programming practice and Data Structures & Algorithms (DSA) solutions.
 
